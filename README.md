@@ -18,14 +18,6 @@ A next-generation compiler prototype that integrates AI/ML techniques into tradi
 - 🛠 *Modular Compiler Architecture*  
   Built to integrate with existing compiler pipelines (e.g., LLVM, custom IR).
 
----
-
-## 🛠 Tech Stack
-
-- 🔧 Core: Python / C++ / [Your language]
-- 🧮 ML Framework: PyTorch / TensorFlow / scikit-learn
-- 📦 Compiler Backend: LLVM / Custom Intermediate Representation
-- 📊 Profiling Tools: perf / Valgrind / Custom Logger
 
 ---
 
